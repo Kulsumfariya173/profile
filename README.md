@@ -12,7 +12,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,git." />
 </p>
 
 ---
